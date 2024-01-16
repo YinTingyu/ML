@@ -5,7 +5,7 @@ import pandas as pd
 import warnings
 import seaborn as sns
 import matplotlib.pyplot as plt
-import pyplot.express as px
+import plotly.express as px
 pd.set_option("display.max_rows", None)
 from sklearn import preprocessing
 import matplotlib
