@@ -11,3 +11,7 @@ from sklearn import preprocessing
 import matplotlib
 matplotlib.style.use('ggplot')
 from sklearn.preprocessing import LabelEncoder
+
+# Read dataset
+ht = pd.read_csv(~/ML/HeartAttack/heart.csv)
+ht.head()
